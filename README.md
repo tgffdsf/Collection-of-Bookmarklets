@@ -1,6 +1,6 @@
 # 📚 Collection of Bookmarklets 🚀
 
-Welcome to the ultimate bookmarklet collection! 🌟 We’ve got over **4,000 bookmarklets** 🔥 to make your browsing more fun, productive, and a bit chaotic 😜.
+Welcome to the ultimate bookmarklet collection! 🌟 We’ve got **5,382 bookmarklets** 🔥 to make your browsing more fun, productive, and a bit chaotic 😜.
 
 ## ✨ Why bookmarklets?
 Bookmarklets are mini-programs 📜 you can run right in your browser with just a click! Use them to:
