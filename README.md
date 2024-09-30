@@ -1,3 +1,4 @@
+# Plz star🌟
 # 📚 Collection of Bookmarklets 🚀
 
 Welcome to the ultimate bookmarklet collection! 🌟 We’ve got **5,382 bookmarklets** 🔥 to make your browsing more fun, productive, and a bit chaotic 😜.
