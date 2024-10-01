@@ -11,7 +11,7 @@ Bookmarklets are mini-programs 📜 you can run right in your browser with just 
 - 🕵️‍♂️ Edit any webpage like a pro
 
 ## 🌈 How to Use:
-1. Download the file above 📥 
+1. Download the file above /https://github.com/tgffdsf/Collection-of-Bookmarklets/blob/main/Bookmarks.html click📥 
 2. Hit **Ctrl+Shift+O** to open your bookmarks manager 📑
 3. In the top corner, click the three dots ⋮ and choose **Import Bookmarks** 📂
 4. Select the file and **BOOM** 💥 — you’re ready to go!
