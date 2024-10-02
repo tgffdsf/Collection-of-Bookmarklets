@@ -11,10 +11,12 @@ Bookmarklets are mini-programs 📜 you can run right in your browser with just 
 - 🕵️‍♂️ Edit any webpage like a pro
 
 ## 🌈 How to Use:
-1. Download the file above /https://github.com/tgffdsf/Collection-of-Bookmarklets/blob/main/Bookmarks.html click📥 
-2. Hit **Ctrl+Shift+O** to open your bookmarks manager 📑
-3. In the top corner, click the three dots ⋮ and choose **Import Bookmarks** 📂
-4. Select the file and **BOOM** 💥 — you’re ready to go!
+1. Download the file above click Bookmarklets.html then click![image](https://github.com/user-attachments/assets/e514365e-9136-48d8-aea1-9b30445ed9dc)📥
+ 
+ 
+3. Hit **Ctrl+Shift+O** to open your bookmarks manager 📑
+4. In the top corner, click the three dots ⋮ and choose **Import Bookmarks** 📂
+5. Select the file and **BOOM** 💥 — you’re ready to go!
 
 ## 🔧 Some Cool Bookmarklets:
 - 🖌️ **Text Editor:** Edit any text on a page in real time!
