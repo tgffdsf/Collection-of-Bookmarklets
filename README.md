@@ -11,7 +11,7 @@ Welcome to the ultimate bookmarklet collection! 🌟 We’ve got **5,000 bookmar
 - 🕵️‍♂️ Edit any webpage like a pro
 
 ## 🌈 How to Use:
-1. Download the file above click Bookmarklets.html then click![image](https://github.com/user-attachments/assets/e514365e-9136-48d8-aea1-9b30445ed9dc)📥
+1. Download the file above click **.html** then click![image](https://github.com/user-attachments/assets/e514365e-9136-48d8-aea1-9b30445ed9dc)📥
  
  
 3. Hit **Ctrl+Shift+O** to open your bookmarks manager 📑
